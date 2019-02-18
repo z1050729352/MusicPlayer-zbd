@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MusicPlayer--GP9-
 > 本应用是利用HTML5提供的Audio标签搭配JQuery开发完成的音乐播放器，当前版本为1.0版本
 
@@ -79,3 +80,7 @@ music-player  项目主体目录
 
 
 
+=======
+# MusicPlayer-zbd
+利用audio标签创建音乐播放器
+>>>>>>> 587f8e3d533e63f2b43f98cbd1c885724785221f
